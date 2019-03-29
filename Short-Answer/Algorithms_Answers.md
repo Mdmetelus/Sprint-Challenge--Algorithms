@@ -14,4 +14,4 @@ C. O(n); This code is linear time complexity. This code is one recursive loop th
     pick a new floor below that. 
     Elseif no break, pick a new floor above.
     THe New floor would be approximately half of the remaining stairs for either direction.
-Repeats recursively until I find the valus of f equals.
+Repeats recursively until I find the value of what f equals.
