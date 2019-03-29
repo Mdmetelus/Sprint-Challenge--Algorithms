@@ -5,4 +5,4 @@ A. O(n); This code is linear time complexity. loop ends after two runs, and as n
 B. O(n**2) actually 0(n**4); This code is linear time complexity.
 As  n increased the number of operations increasess substantiallydue to the nested for loops.
 
-C. O(n); This code is linear time complexity. This code is one recursive loop
+C. O(n); This code is linear time complexity. This code is one recursive loop thant repeated until it hits zero.
